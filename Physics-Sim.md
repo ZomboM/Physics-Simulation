@@ -185,7 +185,7 @@ You should end up with something like these 13 balls:</li>
     r<span class="token punctuation">:</span> <span class="token number">5</span><span class="token punctuation">,</span>
   <span class="token punctuation">}</span><span class="token punctuation">,</span>
   <span class="token punctuation">{</span>
-    name<span class="token punctuation">:</span> <span class="token string">'Micacarphf'</span><span class="token punctuation">,</span>
+    name<span class="token punctuation">:</span> <span class="token string">'Mark'</span><span class="token punctuation">,</span>
     color<span class="token punctuation">:</span> <span class="token string">'purple'</span><span class="token punctuation">,</span>
     mass<span class="token punctuation">:</span> <span class="token number">10</span><span class="token punctuation">,</span>
     cx<span class="token punctuation">:</span> <span class="token number">460</span><span class="token punctuation">,</span>
